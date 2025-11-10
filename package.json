@@ -1,0 +1,23 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "This will be a messenger app.",
+  "main": "index.js",
+  "scripts": {
+    "build": "",
+    "start": ""
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandodesalvidea/chat-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fernandodesalvidea/chat-app/issues"
+  },
+  "homepage": "https://github.com/fernandodesalvidea/chat-app#readme"
+}

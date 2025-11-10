@@ -1,0 +1,26 @@
+#logs:
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lena-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+#editor directories and files:
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+#system files:
+package-lock.json/
+.env
