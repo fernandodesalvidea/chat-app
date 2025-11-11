@@ -1,4 +1,6 @@
 # 💬 Realtime MERN Messaging App
+
+
 <img width="1268" height="732" alt="Screenshot 2025-11-11 at 9 53 35 AM" src="https://github.com/user-attachments/assets/08f4071d-db6f-46d3-b6bc-d7319b5ea82a" />
 <img width="1431" height="745" alt="Screenshot 2025-11-11 at 9 55 36 AM" src="https://github.com/user-attachments/assets/2a8763c8-2de0-4f72-a77f-d9c59e7e8c07" />
 <img width="728" height="730" alt="Screenshot 2025-11-11 at 9 56 25 AM" src="https://github.com/user-attachments/assets/4e41cabc-4a19-4a94-b73e-23c9b4df45ac" />
