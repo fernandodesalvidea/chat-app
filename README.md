@@ -1,4 +1,5 @@
 # 💬 Realtime MERN Messaging App
+![short-demo-min](https://github.com/user-attachments/assets/d69f6638-1321-4562-a2d0-a9dc19ee656e)
 
 
 <img width="1268" height="732" alt="Screenshot 2025-11-11 at 9 53 35 AM" src="https://github.com/user-attachments/assets/08f4071d-db6f-46d3-b6bc-d7319b5ea82a" />
