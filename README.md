@@ -1,4 +1,9 @@
 # 💬 Realtime MERN Messaging App
+<img width="1268" height="732" alt="Screenshot 2025-11-11 at 9 53 35 AM" src="https://github.com/user-attachments/assets/08f4071d-db6f-46d3-b6bc-d7319b5ea82a" />
+<img width="1431" height="745" alt="Screenshot 2025-11-11 at 9 55 36 AM" src="https://github.com/user-attachments/assets/2a8763c8-2de0-4f72-a77f-d9c59e7e8c07" />
+<img width="728" height="730" alt="Screenshot 2025-11-11 at 9 56 25 AM" src="https://github.com/user-attachments/assets/4e41cabc-4a19-4a94-b73e-23c9b4df45ac" />
+<img width="1252" height="732" alt="Screenshot 2025-11-11 at 9 56 54 AM" src="https://github.com/user-attachments/assets/3e6114ae-2509-44ef-85d9-fc424193a53f" />
+
 
 ## A modern, full-stack chat application featuring secure authentication and blazing-fast, real-time communication.
 
@@ -10,7 +15,7 @@
 
 * **⚡ Realtime Communication:** Enjoy instantaneous messaging and live chat updates powered by **Socket.io**.
 * **🔒 Secure Authentication:** Users are securely managed with **JSON Web Token (JWT)** authentication for protected routes and API access.
-* **🎨 Clean & Modern UI:** A sleek, user-friendly interface designed with **DaisyUI** components on top of **Tailwind CSS**.
+* **🎨 Clean & Modern UI:** A sleek, user-friendly interface designed with 32 themes! **DaisyUI** components on top of **Tailwind CSS**.
 * **🏗️ MERN Stack Architecture:** A robust and scalable foundation using MongoDB, Express.js, React, and Node.js.
 * **⚙️ RESTful API:** A high-performance backend API built with **Express** and **Node.js**.
 
