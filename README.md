@@ -2,6 +2,10 @@
 
 ## A modern, full-stack chat application featuring secure authentication and blazing-fast, real-time communication.
 
+**▶️ View Live Application:** [https://chat-app-ff3i.onrender.com/](https://chat-app-ff3i.onrender.com/)
+
+---
+
 ## ✨ Features
 
 * **⚡ Realtime Communication:** Enjoy instantaneous messaging and live chat updates powered by **Socket.io**.
@@ -102,4 +106,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ***
 
-*(Note: Replace `[YOUR_REPO_URL]` and placeholders like `[your-project-name]` with your actual information.)*
+*(Note: Remember to replace `[YOUR_REPO_URL]` and placeholders like `[your-project-name]` with your actual information.)*
